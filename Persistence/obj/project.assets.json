@@ -5995,19 +5995,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\localhost\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\localhost\\github\\jaimito\\BancoRestAPI-master\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\Github\\RestAPI Banco\\BancoRestAPI-master\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\localhost\\github\\jaimito\\BancoRestAPI-master\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\localhost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\localhost\\github\\jaimito\\BancoRestAPI-master\\Persistence\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Documents\\Github\\RestAPI Banco\\BancoRestAPI-master\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\Github\\RestAPI Banco\\BancoRestAPI-master\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\localhost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6021,11 +6021,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\localhost\\github\\jaimito\\BancoRestAPI-master\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\localhost\\github\\jaimito\\BancoRestAPI-master\\Application\\Application.csproj"
+            "C:\\Users\\HP\\Documents\\Github\\RestAPI Banco\\BancoRestAPI-master\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\Github\\RestAPI Banco\\BancoRestAPI-master\\Application\\Application.csproj"
             },
-            "C:\\Users\\localhost\\github\\jaimito\\BancoRestAPI-master\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\localhost\\github\\jaimito\\BancoRestAPI-master\\Domain\\Domain.csproj"
+            "C:\\Users\\HP\\Documents\\Github\\RestAPI Banco\\BancoRestAPI-master\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\Github\\RestAPI Banco\\BancoRestAPI-master\\Domain\\Domain.csproj"
             }
           }
         }
@@ -6076,7 +6076,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

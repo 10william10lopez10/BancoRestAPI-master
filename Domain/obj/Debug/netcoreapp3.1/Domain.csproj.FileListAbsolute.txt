@@ -16,3 +16,12 @@ C:\Users\localhost\github\jaimito\BancoRestAPI-master\Domain\obj\Debug\netcoreap
 C:\Users\localhost\github\jaimito\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 C:\Users\localhost\github\jaimito\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 C:\Users\localhost\github\jaimito\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\HP\Documents\Github\RestAPI Banco\BancoRestAPI-master\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
